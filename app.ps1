@@ -1,4 +1,4 @@
-$shellcode = [byte[]] (0x00,0x01,0x02) # Пример шеллкода, замените на свой
+$shellcode = [byte[]] (0x00,0x01,0x02) # shellc..
 
 $pinvoke = @"
 using System;
